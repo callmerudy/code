@@ -1,0 +1,3 @@
+rootProject.name = 'NavandTab'
+
+include ':app'
